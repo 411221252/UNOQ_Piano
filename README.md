@@ -4,14 +4,7 @@
 
 也有「小星星」與「歡樂頌」兩首練習曲：按「示範播放」聽旋律及看目前音符提示，或按「跟我彈」照提示逐音練習。可用速度滑桿調整每分鐘拍數（BPM），再開啟節拍器跟拍。
 
-## 匯入 Arduino App Lab
-
-1. 將 `UNOQ_Piano.zip` 解壓縮。
-2. 在 Arduino App Lab 的 Apps 頁面選擇 **Import or install App**，匯入解壓縮後的 `UNOQ_Piano` 專案資料夾（或將專案檔案複製到 UNO Q 的 `~/ArduinoApps/UNO Q Piano/`）。
-3. 開啟 **UNO Q Piano**，按 **Run**。
-4. 找出 UNO Q 在區域網路的 IP 位址，在同一網路的電腦瀏覽器開啟 `http://<UNO-Q-IP>:8000`。
-
-專案使用 UNO Q 的 Linux MPU 提供網頁，電腦瀏覽器用 Web Audio API 即時產生琴音；不需要額外揚聲器配線或安裝 Python 套件。請在首次開啟頁面後點一下琴鍵，瀏覽器才會啟用音訊。
+找出 UNO Q 在區域網路的 IP 位址，在同一網路的電腦瀏覽器開啟 `http://<UNO-Q-IP>:8000`。
 
 ## 錄音與儲存
 
