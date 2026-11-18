@@ -1,0 +1,6 @@
+name: UNO Q Piano
+icon: 🎹
+description: 用電腦瀏覽器演奏鋼琴，錄下並回放最多 10 秒的旋律。
+ports:
+  - 8000
+bricks: []
